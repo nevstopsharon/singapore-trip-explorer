@@ -1,0 +1,20 @@
+{
+  "name": "singapore-trip-explorer",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.1.7"
+  },
+  "dependencies": {
+    "leaflet": "1.9.4"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
